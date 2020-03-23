@@ -1,4 +1,4 @@
-module github.com/adrianmo/go-nmea
+module github.com/yavosh/go-nmea
 
 go 1.13
 
